@@ -12,3 +12,9 @@ storage
 
 ## File System
 .DS_Store
+
+## Projects
+
+# I don't want to track projects because they are
+# so machine specific
+projects.cson
