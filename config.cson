@@ -1,0 +1,19 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "duotone-dark-syntax"
+    ]
+  editor:
+    fontFamily: "\"M+ 1mn\", sans-serif;"
+    fontSize: 19
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    tabType: "soft"
+  emmet: {}
+  "exception-reporting":
+    userId: "2cb904b8-635e-67b0-c8f6-ba3a18351802"
+  "one-dark-ui": {}
+  welcome:
+    showOnStartup: false

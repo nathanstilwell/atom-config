@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+ATOM=~/.atom;
+
+$(which apm) list --installed --bare > $ATOM/packages.txt

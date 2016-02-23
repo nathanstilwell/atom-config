@@ -1,0 +1,14 @@
+### Gitignore for Atom.io configs
+
+## Atom.io internals
+.apm
+.node-gyp
+.npm
+blob-store
+compile-cache
+dev
+packages
+storage
+
+## File System
+.DS_Store

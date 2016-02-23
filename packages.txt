@@ -1,0 +1,7 @@
+duotone-dark-syntax@1.0.0
+editorconfig@1.2.4
+emmet@2.4.1
+language-gitignore@0.2.0
+project-manager@2.7.6
+vim-mode@0.64.0
+
