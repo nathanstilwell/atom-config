@@ -6,7 +6,7 @@
     ]
   editor:
     fontFamily: "\"M+ 1mn\", sans-serif;"
-    fontSize: 19
+    fontSize: 20
     invisibles: {}
     showIndentGuide: true
     showInvisibles: true
@@ -15,5 +15,6 @@
   "exception-reporting":
     userId: "2cb904b8-635e-67b0-c8f6-ba3a18351802"
   "one-dark-ui": {}
+  "tree-view": {}
   welcome:
     showOnStartup: false
