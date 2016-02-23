@@ -2,4 +2,4 @@
 
 ATOM=~/.atom;
 
-$(which apm) install --packages-file $ATOM/package-list.txt
+$(which apm) install --packages-file $ATOM/packages.txt
