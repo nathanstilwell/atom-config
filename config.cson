@@ -14,6 +14,11 @@
   emmet: {}
   "exception-reporting":
     userId: "2cb904b8-635e-67b0-c8f6-ba3a18351802"
+  linter: {}
+  "linter-eslint":
+    useGlobalEslint: true
+  "linter-jscs":
+    onlyConfig: true
   "one-dark-ui": {}
   "tree-view": {}
   welcome:
