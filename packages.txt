@@ -2,9 +2,11 @@ duotone-dark-syntax@1.0.0
 editorconfig@1.2.4
 emmet@2.4.1
 language-gitignore@0.2.0
+language-scala@1.1.6
 linter@1.11.3
 linter-eslint@7.0.0
-linter-jscs@3.4.6
+linter-jscs@3.4.8
 project-manager@2.7.6
+scala-format@0.1.8
 vim-mode@0.64.0
 

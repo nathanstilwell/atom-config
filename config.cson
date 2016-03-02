@@ -1,20 +1,23 @@
 "*":
   core:
+    packagesWithKeymapsDisabled: []
     themes: [
       "one-dark-ui"
       "duotone-dark-syntax"
     ]
   editor:
     fontFamily: "\"M+ 1mn\", sans-serif;"
-    fontSize: 20
+    fontSize: 18
     invisibles: {}
+    preferredLineLength: 120
     showIndentGuide: true
     showInvisibles: true
-    tabType: "soft"
+    softTabs: false
   emmet: {}
   "exception-reporting":
     userId: "2cb904b8-635e-67b0-c8f6-ba3a18351802"
-  linter: {}
+  linter:
+    errorPanelHeight: 283
   "linter-eslint":
     useGlobalEslint: true
   "linter-jscs":
@@ -23,3 +26,10 @@
   "tree-view": {}
   welcome:
     showOnStartup: false
+".ini.source":
+  editor:
+    preferredLineLength: 120
+    tabLength: 2
+".scala.source":
+  editor:
+    preferredLineLength: 120
