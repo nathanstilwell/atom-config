@@ -3,3 +3,5 @@
 ATOM=~/.atom;
 
 $(which apm) list --installed --bare > $ATOM/packages.txt
+
+echo "Atom packages saved to $ATOM/packages.txt";

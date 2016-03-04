@@ -3,3 +3,5 @@
 ATOM=~/.atom;
 
 $(which apm) install --packages-file $ATOM/packages.txt
+
+echo "Atom packages installed from $ATOM/packages.txt";
