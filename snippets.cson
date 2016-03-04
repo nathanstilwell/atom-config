@@ -23,7 +23,14 @@
   'Annonymous Function':
     'prefix': '()'
     'body': """
-      function ${1} (${2}) {
+      function ${1}(${2}) {
         ${3}
+      }
+    """
+  'Fat Arrow Function':
+    'prefix': '()>'
+    'body': """
+      (${1}) => {
+        ${2}
       }
     """
