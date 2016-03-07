@@ -1,6 +1,5 @@
 "*":
   core:
-    packagesWithKeymapsDisabled: []
     themes: [
       "one-dark-ui"
       "duotone-dark-syntax"
@@ -19,6 +18,8 @@
   linter:
     errorPanelHeight: 283
   "linter-eslint":
+    disableWhenNoEslintConfig: false
+    eslintrcPath: "/Users/nstilwell/.eslintrc"
     useGlobalEslint: true
   "linter-jscs":
     onlyConfig: true

@@ -34,3 +34,6 @@
         ${2}
       }
     """
+  'ESLint Global Variables':
+    'prefix': 'globals'
+    'body': '/*global ${1}*/'
