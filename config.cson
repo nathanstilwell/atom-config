@@ -23,6 +23,8 @@
     useGlobalEslint: true
   "linter-jscs":
     onlyConfig: true
+  "linter-shellcheck":
+    shellcheckExecutablePath: "/usr/local/bin/shellcheck"
   "one-dark-ui": {}
   "tree-view": {}
   welcome:
