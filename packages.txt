@@ -5,10 +5,12 @@ emmet@2.4.2
 language-gitignore@0.2.0
 language-scala@1.1.6
 linter@1.11.3
-linter-eslint@7.0.0
+linter-eslint@7.1.1
 linter-jscs@3.4.8
 linter-shellcheck@1.1.0
+maximize-panes@0.2.0
 project-manager@2.7.6
+react@0.14.2
 scala-format@0.1.8
-vim-mode@0.64.0
+vim-mode@0.65.0
 
