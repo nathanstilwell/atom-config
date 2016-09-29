@@ -1,8 +1,9 @@
 "*":
   core:
+    packagesWithKeymapsDisabled: []
     themes: [
       "one-dark-ui"
-      "duotone-dark-syntax"
+      "gruvbox"
     ]
   editor:
     fontFamily: "\"M+ 1mn\", sans-serif;"
@@ -17,7 +18,6 @@
     userId: "2cb904b8-635e-67b0-c8f6-ba3a18351802"
   linter:
     errorPanelHeight: 283
-    showErrorPanel: false
   "linter-eslint":
     disableWhenNoEslintConfig: false
     eslintrcPath: "/Users/nstilwell/.eslintrc"
