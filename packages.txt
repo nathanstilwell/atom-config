@@ -1,18 +1,18 @@
-docblockr@0.8.5
-duotone-dark-syntax@1.0.0
-editorconfig@1.4.1
+docblockr@0.8.7
+duotone-dark-syntax@2.0.0
+editorconfig@2.0.5
 emmet@2.4.3
 gruvbox@1.0.5
-language-gitignore@0.2.0
-language-scala@1.1.6
-linter@1.11.16
-linter-eslint@7.3.2
+language-gitignore@0.3.0
+language-scala@1.1.8
+linter@1.11.18
+linter-eslint@8.0.0
 linter-jscs@4.1.0
 linter-jsonlint@1.3.0
 linter-shellcheck@1.4.1
 maximize-panes@0.2.0
-project-manager@3.2.3
-react@0.16.0
+project-manager@3.3.3
+react@0.16.1
 scala-format@0.1.8
 vim-mode@0.65.1
 
