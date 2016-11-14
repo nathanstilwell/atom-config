@@ -1,6 +1,7 @@
 "*":
   core:
     packagesWithKeymapsDisabled: []
+    telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
       "gruvbox"
@@ -19,7 +20,7 @@
   linter:
     errorPanelHeight: 283
   "linter-eslint":
-    disableWhenNoEslintConfig: false
+    disableFSCache: true
     eslintrcPath: "/Users/nstilwell/.eslintrc"
     useGlobalEslint: true
   "linter-jscs":
