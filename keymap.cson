@@ -28,3 +28,4 @@
 'atom-text-editor':
   'cmd-ctrl-1': 'window:focus-previous-pane'
   'cmd-ctrl-2': 'window:focus-next-pane'
+  'cmd-ctrl-b': 'git-blame:toggle'

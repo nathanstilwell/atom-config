@@ -17,6 +17,10 @@
   emmet: {}
   "exception-reporting":
     userId: "2cb904b8-635e-67b0-c8f6-ba3a18351802"
+  "git-blame":
+    columnWidth: 300
+    dateFormatString: "DD.MM.YY"
+    showOnlyLastNames: false
   linter:
     errorPanelHeight: 283
   "linter-eslint":
