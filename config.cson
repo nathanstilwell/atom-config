@@ -25,7 +25,6 @@
   "linter-eslint":
     disableFSCache: true
     eslintrcPath: "/Users/nstilwell/.eslintrc"
-    useGlobalEslint: true
   "linter-jscs":
     onlyConfig: true
   "linter-shellcheck":
