@@ -1,10 +1,13 @@
 "*":
   core:
+    disabledPackages: [
+      "whitespace"
+    ]
     packagesWithKeymapsDisabled: []
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
-      "duotone-dark-syntax"
+      "gruvbox-plus-syntax"
     ]
   editor:
     fontFamily: "\"M+ 1m\", sans-serif"
@@ -20,8 +23,8 @@
     columnWidth: 300
     dateFormatString: "DD.MM.YY"
     showOnlyLastNames: false
-  linter:
-    errorPanelHeight: 283
+  "gruvbox-plus-syntax": {}
+  linter: {}
   "linter-eslint":
     disableFSCache: true
     eslintrcPath: "/Users/nstilwell/.eslintrc"
@@ -29,6 +32,9 @@
     onlyConfig: true
   "linter-shellcheck":
     shellcheckExecutablePath: "/usr/local/bin/shellcheck"
+  "linter-ui-default":
+    panelHeight: 260
+    showPanel: true
   "one-dark-ui": {}
   "tree-view": {}
   "vim-mode-plus":
