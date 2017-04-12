@@ -7,7 +7,7 @@
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
-      "gruvbox-plus-syntax"
+      "dracula-theme"
     ]
   editor:
     fontFamily: "\"M+ 1m\", sans-serif"
@@ -23,7 +23,6 @@
     columnWidth: 300
     dateFormatString: "DD.MM.YY"
     showOnlyLastNames: false
-  "gruvbox-plus-syntax": {}
   linter: {}
   "linter-eslint":
     disableFSCache: true
@@ -32,9 +31,6 @@
     onlyConfig: true
   "linter-shellcheck":
     shellcheckExecutablePath: "/usr/local/bin/shellcheck"
-  "linter-ui-default":
-    panelHeight: 260
-    showPanel: true
   "one-dark-ui": {}
   "tree-view": {}
   "vim-mode-plus":
