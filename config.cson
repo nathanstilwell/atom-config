@@ -6,7 +6,7 @@
     packagesWithKeymapsDisabled: []
     telemetryConsent: "limited"
     themes: [
-      "one-dark-ui"
+      "dracula-ui"
       "dracula-theme"
     ]
   editor:
