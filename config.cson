@@ -12,7 +12,7 @@
   editor:
     fontFamily: "\"M+ 1m\", sans-serif"
     fontSize: 18
-    preferredLineLength: 120
+    preferredLineLength: 100
     showIndentGuide: true
     showInvisibles: true
     softTabs: false
@@ -23,6 +23,13 @@
     columnWidth: 300
     dateFormatString: "DD.MM.YY"
     showOnlyLastNames: false
+  "js-hyperclick":
+    extensions: [
+      ".js"
+      ".json"
+      ".node"
+      ".jsx"
+    ]
   linter: {}
   "linter-eslint":
     disableFSCache: true
@@ -31,6 +38,8 @@
     onlyConfig: true
   "linter-shellcheck":
     shellcheckExecutablePath: "/usr/local/bin/shellcheck"
+  "linter-ui-default":
+    showPanel: true
   "one-dark-ui": {}
   "tree-view": {}
   "vim-mode-plus":
