@@ -13,9 +13,9 @@
     fontFamily: "\"M+ 1m\", sans-serif"
     fontSize: 18
     preferredLineLength: 100
+    scrollPastEnd: true
     showIndentGuide: true
     showInvisibles: true
-    softTabs: false
   emmet: {}
   "exception-reporting":
     userId: "2cb904b8-635e-67b0-c8f6-ba3a18351802"
