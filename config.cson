@@ -39,12 +39,15 @@
   "linter-shellcheck":
     shellcheckExecutablePath: "/usr/local/bin/shellcheck"
   "linter-ui-default":
+    panelHeight: 457
     showPanel: true
   "one-dark-ui": {}
   "tree-view": {}
   "vim-mode-plus":
     automaticallyEscapeInsertModeOnActivePaneItemChange: true
     incrementalSearch: true
+    keymapPToPutWithAutoIndent: true
+    keymapUnderscoreToReplaceWithRegister: true
   welcome:
     showOnStartup: false
 ".ini.source":
