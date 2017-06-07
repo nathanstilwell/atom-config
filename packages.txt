@@ -1,10 +1,9 @@
 atom-typescript@11.0.3
 autocomplete-modules@1.6.10
 autocomplete-paths@1.0.5
-busy-signal@1.4.1
+busy-signal@1.4.3
 docblockr@0.10.3
 dracula-syntax@2.0.5
-dracula-theme@2.0.3
 dracula-ui@0.6.0
 duotone-dark-syntax@2.1.0
 editorconfig@2.2.2
@@ -24,6 +23,6 @@ maximize-panes@0.2.0
 project-manager@3.3.5
 react@0.16.2
 scala-format@0.1.8
-seti-icons@1.5.1
+seti-icons@1.5.3
 vim-mode-plus@0.93.0
 
