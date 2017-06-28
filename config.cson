@@ -7,7 +7,7 @@
     telemetryConsent: "limited"
     themes: [
       "dracula-ui"
-      "dracula-theme"
+      "dracula-syntax"
     ]
   editor:
     fontFamily: "\"M+ 1m\", sans-serif"
@@ -39,8 +39,7 @@
   "linter-shellcheck":
     shellcheckExecutablePath: "/usr/local/bin/shellcheck"
   "linter-ui-default":
-    panelHeight: 457
-    showPanel: true
+    panelHeight: 436
   "one-dark-ui": {}
   "tree-view": {}
   "vim-mode-plus":
