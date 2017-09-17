@@ -39,7 +39,7 @@
   "linter-shellcheck":
     shellcheckExecutablePath: "/usr/local/bin/shellcheck"
   "linter-ui-default":
-    panelHeight: 436
+    panelHeight: 415
   "one-dark-ui": {}
   "tree-view": {}
   "vim-mode-plus":
