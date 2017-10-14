@@ -11,7 +11,7 @@
     ]
   editor:
     fontFamily: "\"M+ 1m\", sans-serif"
-    fontSize: 18
+    fontSize: 16
     preferredLineLength: 100
     scrollPastEnd: true
     showIndentGuide: true
@@ -39,7 +39,7 @@
   "linter-shellcheck":
     shellcheckExecutablePath: "/usr/local/bin/shellcheck"
   "linter-ui-default":
-    panelHeight: 415
+    panelHeight: 436
   "one-dark-ui": {}
   "tree-view": {}
   "vim-mode-plus":
@@ -47,6 +47,7 @@
     incrementalSearch: true
     keymapPToPutWithAutoIndent: true
     keymapUnderscoreToReplaceWithRegister: true
+    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
   welcome:
     showOnStartup: false
 ".ini.source":
