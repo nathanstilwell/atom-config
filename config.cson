@@ -47,7 +47,6 @@
     incrementalSearch: true
     keymapPToPutWithAutoIndent: true
     keymapUnderscoreToReplaceWithRegister: true
-    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
   welcome:
     showOnStartup: false
 ".ini.source":
