@@ -21,9 +21,10 @@ linter-shellcheck@1.5.0
 linter-ui-default@1.7.1
 lorem@1.5.0
 maximize-panes@0.2.0
+pretty-json@2.0.3
 project-manager@3.3.6
 react@0.18.0
 scala-format@0.1.8
 seti-icons@1.5.4
-vim-mode-plus@1.34.0
+vim-mode-plus@1.35.0
 
